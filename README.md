@@ -85,7 +85,7 @@ data-driven solutions for real-world challenges.
 
 * 🌟 Apache Sedona Open Source Contributor
 * 🤖 Microsoft AI Odyssey Participant
-* 🎓 Kaggle AI Agents Intensive Course Graduate
+* 🎓 Google AI Agents Intensive Course Graduate
 * 🏅 Secretary (2025), Enigma IT Club (2025)
 * 🚀 Innovation Coordinator(2026), Institution's Innovation Council (IIC)
 
