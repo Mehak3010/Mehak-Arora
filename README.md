@@ -3,8 +3,6 @@
 ### Software Engineer • AI/ML Engineer • Open Source Contributor
 
 I'm a software engineer focused on building intelligent software, AI-powered applications, and full-stack products. I enjoy solving real-world problems through software engineering, machine learning, and open-source collaboration.
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mehak3010)
 ![BCA 2026](https://img.shields.io/badge/BCA-2026-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
 
@@ -27,6 +25,8 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [AskMyPDF](https://github.com/Mehak3010/AskMyPDF)                                                | AI-powered document intelligence platform that enables users to chat with PDFs using Retrieval-Augmented Generation (RAG). | React, FastAPI, LangChain, FAISS, Gemini API |
 | [Customer Churn Analysis](https://github.com/Mehak3010/CustomerChurnAnalysis)                    | Predictive analytics solution focused on customer churn forecasting and retention insights.                                | Python, Pandas, Scikit-Learn                 |
+| [DayRift]() | Productivity intelligence platform that combines task management, focus tracking, and desktop activity analytics to help users measure and improve work habits through actionable insights and performance metrics. | React Native, Node.js, MongoDB, Python |
+| [DayRift](https://github.com/Mehak3010/Dayrift) | Productivity intelligence platform that combines task management, focus tracking, and desktop activity analytics to help users measure and improve work habits through actionable insights and performance metrics. | React Native, Node.js, MongoDB, Python |
 | [Synq](https://github.com/Mehak3010/Synq)                                              | Real-time messaging platform featuring authentication, live chat, and responsive user experience.                          | React, Node.js, Express, Socket.io, MongoDB  |
 | [Zenith Real Estate Predictor](https://github.com/Mehak3010/Zenith-Real-Estates-Price_Predictor) | Machine learning platform for property price prediction and market analysis.                                               | Python, Pandas, Scikit-Learn, Matplotlib     |
 | [Black Light AI](https://github.com/Mehak3010/black-light-ai)                                    | Autonomous Cyber Risk Intelligence Agent that analyzes vulnerabilities and generates AI-powered security reports.          | Python, Gemini API, Multi-Agent Systems      |
@@ -65,6 +65,13 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 ---
 
 ## 💼 Experience
+
+### AI Engineer | Fasal Vimaan
+
+* Designing and implementing AI-driven solutions to enhance automation, data intelligence, 
+and decision-making capabilities across the organization's digital ecosystem. 
+* Developing and integrating machine learning models with web applications and APIs to build practical, 
+data-driven solutions for real-world challenges.
 
 ### Web Development Intern | Unified Mentor
 
