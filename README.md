@@ -1,37 +1,37 @@
 # Hi, I'm Mehak Arora 👋
 
-### Software Engineer • AI/ML Enthusiast • Open Source Contributor
+### Software Engineer • AI/ML Engineer • Open Source Contributor
 
-I'm a BCA student passionate about building intelligent software, AI-powered applications, and full-stack products. I enjoy solving real-world problems through software engineering, machine learning, and open-source collaboration.
+I'm a software engineer focused on building intelligent software, AI-powered applications, and full-stack products. I enjoy solving real-world problems through software engineering, machine learning, and open-source collaboration.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mehak3010)
+![BCA 2026](https://img.shields.io/badge/BCA-2026-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Snapshot
 
-* 🎓 BCA (2023–2026) at Jagannath International Management School (JIMS), Vasant Kunj
-* 📊 Current CGPA: **9.3**
-* 💻 Interested in Software Engineering, AI/ML, Data Science, and Generative AI
-* 🌱 Currently exploring Multi-Agent Systems, RAG Applications, and ML Engineering
+* 🎓 BCA @ Jagannath International Management School (2023–2026)
+* 📊 CGPA: **9.3**
+* 💻 Software Engineering, AI/ML, Data Science & Generative AI
+* 🌱 Exploring Multi-Agent Systems, RAG Applications, and ML Engineering
+* 🛠️ Built AI-powered products, full-stack applications, and data-driven solutions
 * 🤝 Open to Software Engineer, AI/ML Engineer, and Data Scientist opportunities
 
+---
 
-## 💼 Experience
+## 🌟 Featured Projects
 
-### Web Development Intern | Unified Mentor
-
-* Developed and enhanced web applications using modern frontend and backend technologies.
-* Worked on responsive UI development and application functionality.
-* Collaborated on feature implementation and project delivery.
-
-### Secretary | Enigma IT Club
-
-* Organized technical events, workshops, and hackathons.
-* Managed club activities and student engagement initiatives.
-
-### Core Team Member | Institution's Innovation Council (IIC)
-
-* Supported innovation-focused events and entrepreneurship initiatives.
-* Coordinated technical and community-building activities.
+| Project                                                                                          | Description                                                                                                                | Tech Stack                                   |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [AskMyPDF](https://github.com/Mehak3010/AskMyPDF)                                                | AI-powered document intelligence platform that enables users to chat with PDFs using Retrieval-Augmented Generation (RAG). | React, FastAPI, LangChain, FAISS, Gemini API |
+| [Customer Churn Analysis](https://github.com/Mehak3010/CustomerChurnAnalysis)                    | Predictive analytics solution focused on customer churn forecasting and retention insights.                                | Python, Pandas, Scikit-Learn                 |
+| [Synq](https://github.com/Mehak3010/Synq)                                              | Real-time messaging platform featuring authentication, live chat, and responsive user experience.                          | React, Node.js, Express, Socket.io, MongoDB  |
+| [Zenith Real Estate Predictor](https://github.com/Mehak3010/Zenith-Real-Estates-Price_Predictor) | Machine learning platform for property price prediction and market analysis.                                               | Python, Pandas, Scikit-Learn, Matplotlib     |
+| [Black Light AI](https://github.com/Mehak3010/black-light-ai)                                    | Autonomous Cyber Risk Intelligence Agent that analyzes vulnerabilities and generates AI-powered security reports.          | Python, Gemini API, Multi-Agent Systems      |
+| [InkWell](https://github.com/Mehak3010/InkWell)                                                  | Full-stack blogging platform supporting content creation, publishing, and community engagement.                            | React, Node.js, MongoDB                      |
+| [Reddit Bot Detective](https://github.com/Mehak3010/Reddit-Bot-Detective)                        | Comparative study of anomaly detection algorithms for identifying automated Reddit accounts.                               | Python, Machine Learning, Data Analysis      |
 
 ---
 
@@ -39,65 +39,75 @@ I'm a BCA student passionate about building intelligent software, AI-powered app
 
 ### Languages
 
-Python • Java • JavaScript • SQL • C • PHP
+`Python` `Java` `JavaScript` `SQL` `C` `PHP`
 
 ### Frontend
 
-React • Next.js • Tailwind CSS • HTML • CSS
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
 
 ### Backend
 
-Node.js • Express.js • FastAPI • REST APIs
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
 ### AI / Machine Learning
 
-Scikit-Learn • TensorFlow • LangChain • FAISS • Gemini API • Pandas • NumPy
+`Scikit-Learn` `TensorFlow` `LangChain` `FAISS` `Gemini API`
+`Pandas` `NumPy`
 
 ### Databases
 
-MySQL • MongoDB
+`MongoDB` `MySQL`
 
 ### Tools & Platforms
 
-Git • GitHub • VS Code • Postman • Kaggle • Vercel
+`Git` `GitHub` `VS Code` `Postman` `Kaggle` `Vercel`
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Experience
 
-| Project                                                                                          | Description                                                                                                                                      | Tech Stack                                   |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| [AskMyPDF]((https://github.com/Mehak3010/AskMyPDF))                                                         | AI-powered PDF chat application using Retrieval-Augmented Generation (RAG) with document search, contextual Q&A, and PDF viewing.                | React, FastAPI, LangChain, FAISS, Gemini API |
-| [ChurnAnalysis]((https://github.com/Mehak3010/CustomerChurnAnalysis))                                      | Customer churn prediction and business insights using machine learning techniques.                                                               | Python, Pandas, Scikit-Learn                 |
-| [Zenith Real Estate Predictor]((https://github.com/Mehak3010/Zenith)) | Machine learning solution for property price prediction with exploratory data analysis and model evaluation.                                     | Python, Pandas, Scikit-Learn, Matplotlib     |
-| [Reddit Bot Detective]((https://github.com/Mehak3010/Reddit-Bot-Detective))                                             | Comparative analysis of anomaly detection algorithms for identifying automated Reddit accounts.                                                  | Python, Machine Learning, Data Analysis      |
-| [InkWell]((https://github.com/Mehak3010/InkWell))                                                  | Blogging platform supporting content creation, publishing, and user interaction.                                                                 | React, Node.js, MongoDB                      |
-| [Black Light AI]((https://github.com/Mehak3010/black-light-ai))                                    | Autonomous Cyber Risk Intelligence Agent that analyzes vulnerabilities, enriches findings with CVE intelligence, and generates security reports. | Python, Gemini API, Multi-Agent Systems      |
+### Web Development Intern | Unified Mentor
+
+* Developed and enhanced web applications using modern frontend and backend technologies.
+* Built responsive user interfaces and implemented application features.
+* Collaborated on project delivery and software development workflows.
+
+### Secretary | Enigma IT Club
+
+* Organized technical workshops, coding events, and hackathons.
+* Led student engagement initiatives and club activities.
+
+### Core Team Member | Institution's Innovation Council (IIC)
+
+* Supported innovation-focused events and entrepreneurship initiatives.
+* Coordinated technical and community-building programs.
+
 ---
 
 ## 🏆 Achievements
 
-* Apache Sedona Open Source Contributor
-* Microsoft AI Odyssey Participant
-* Kaggle AI Agents Intensive Course Graduate
-* Secretary, Enigma IT Club
-* Core Team Member, Institution's Innovation Council (IIC)
+* 🌟 Apache Sedona Open Source Contributor
+* 🤖 Microsoft AI Odyssey Participant
+* 🎓 Kaggle AI Agents Intensive Course Graduate
+* 🏅 Secretary, Enigma IT Club
+* 🚀 Core Team Member, Institution's Innovation Council (IIC)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehak3010\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak3010\&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak3010&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak3010&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/mehak-arora-89b436292](http://www.linkedin.com/in/mehak-arora-89b436292)
-* GitHub: github.com/Mehak3010
+* LinkedIn: https://www.linkedin.com/in/mehak-arora-89b436292/
+* GitHub: https://github.com/Mehak3010
 
 ---
 
-### Building intelligent software with code, data, and curiosity.
+### 💡 Building intelligent software with code, data, and curiosity.
