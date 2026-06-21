@@ -72,16 +72,6 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 * Built responsive user interfaces and implemented application features.
 * Collaborated on project delivery and software development workflows.
 
-### Secretary | Enigma IT Club
-
-* Organized technical workshops, coding events, and hackathons.
-* Led student engagement initiatives and club activities.
-
-### Core Team Member | Institution's Innovation Council (IIC)
-
-* Supported innovation-focused events and entrepreneurship initiatives.
-* Coordinated technical and community-building programs.
-
 ---
 
 ## 🏆 Achievements
@@ -89,17 +79,8 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 * 🌟 Apache Sedona Open Source Contributor
 * 🤖 Microsoft AI Odyssey Participant
 * 🎓 Kaggle AI Agents Intensive Course Graduate
-* 🏅 Secretary, Enigma IT Club
-* 🚀 Core Team Member, Institution's Innovation Council (IIC)
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak3010&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak3010&layout=compact&hide_border=true" />
-</p>
+* 🏅 Secretary (2025), Enigma IT Club (2025)
+* 🚀 Innovation Coordinator(2026), Institution's Innovation Council (IIC)
 
 ---
 
@@ -107,7 +88,3 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 
 * LinkedIn: https://www.linkedin.com/in/mehak-arora-89b436292/
 * GitHub: https://github.com/Mehak3010
-
----
-
-### 💡 Building intelligent software with code, data, and curiosity.
