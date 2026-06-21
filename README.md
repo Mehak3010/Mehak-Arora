@@ -3,6 +3,7 @@
 ### Software Engineer • AI/ML Engineer • Open Source Contributor
 
 I'm a software engineer focused on building intelligent software, AI-powered applications, and full-stack products. I enjoy solving real-world problems through software engineering, machine learning, and open-source collaboration.
+
 ![BCA 2026](https://img.shields.io/badge/BCA-2026-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
 
