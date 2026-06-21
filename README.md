@@ -66,14 +66,14 @@ I'm a software engineer focused on building intelligent software, AI-powered app
 
 ## 💼 Experience
 
-### AI Engineer | Fasal Vimaan
+### AI Engineer | Fasal Vimaan (Jan, 2026 - Present)
 
 * Designing and implementing AI-driven solutions to enhance automation, data intelligence, 
 and decision-making capabilities across the organization's digital ecosystem. 
 * Developing and integrating machine learning models with web applications and APIs to build practical, 
 data-driven solutions for real-world challenges.
 
-### Web Development Intern | Unified Mentor
+### Web Development Intern | Unified Mentor (July,25 - Aug, 2025)
 
 * Developed and enhanced web applications using modern frontend and backend technologies.
 * Built responsive user interfaces and implemented application features.
