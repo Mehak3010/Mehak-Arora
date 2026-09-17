@@ -1,97 +1,93 @@
 # Hi, I'm Mehak Arora 👋
 
-### Software Engineer • AI/ML Engineer • Open Source Contributor
+### Data Scientist • AI/ML Engineer • Open Source Contributor
 
-I'm a software engineer focused on building intelligent software, AI-powered applications, and full-stack products. I enjoy solving real-world problems through software engineering, machine learning, and open-source collaboration.
+I build personalized recommendation/ranking systems, production ML inference services, and AI-powered applications. I enjoy solving real-world problems through machine learning, statistical experimentation, and open-source collaboration — currently shipping computer vision models to production and exploring RAG systems and multi-agent AI.
 
 ![BCA 2026](https://img.shields.io/badge/BCA-2026-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
+![Available](https://img.shields.io/badge/Available-Immediately-brightgreen)
 
 ---
 
 ## 🚀 Quick Snapshot
 
-* 🎓 BCA @ Jagannath International Management School (2023–2026)
-* 📊 CGPA: **9.3**
-* 💻 Software Engineering, AI/ML, Data Science & Generative AI
-* 🌱 Exploring Multi-Agent Systems, RAG Applications, and ML Engineering
-* 🛠️ Built AI-powered products, full-stack applications, and data-driven solutions
-* 🤝 Open to Software Engineer, AI/ML Engineer, and Data Scientist opportunities
-
----
-
-## 🌟 Featured Projects
-
-| Project                                                                                          | Description                                                                                                                | Tech Stack                                   |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [AskMyPDF](https://github.com/Mehak3010/AskMyPDF)                                                | AI-powered document intelligence platform that enables users to chat with PDFs using Retrieval-Augmented Generation (RAG). | React, FastAPI, LangChain, FAISS, Gemini API |
-| [InkWell](https://github.com/Mehak3010/InkWell)                                                  | Full-stack blogging platform supporting content creation, publishing, and community engagement.                            | React, Node.js, MongoDB                      |
-| [DayRift](https://github.com/ktl-ctrl/DayRift) | Productivity intelligence platform that combines task management, focus tracking, and desktop activity analytics to help users measure and improve work habits through actionable insights and performance metrics. | React Native, Node.js, MongoDB, Python |
-| [Synq](https://github.com/Mehak3010/Synq)                                              | Real-time messaging platform featuring authentication, live chat, and responsive user experience.                          | React, Node.js, Express, Socket.io, MongoDB  |
-| [Customer Churn Analysis](https://github.com/Mehak3010/CustomerChurnAnalysis)                    | Predictive analytics solution focused on customer churn forecasting and retention insights.                                | Python, Pandas, Scikit-Learn                 |
-| [Zenith](https://github.com/Mehak3010/Zenith-Real-Estates-Price_Predictor) | Machine learning platform for property price prediction and market analysis.                                               | Python, Pandas, Scikit-Learn, Matplotlib     |
-| [Black Light AI](https://github.com/Mehak3010/black-light-ai)                                    | Autonomous Cyber Risk Intelligence Agent that analyzes vulnerabilities and generates AI-powered security reports.          | Python, Gemini API, Multi-Agent Systems      |
-| [Reddit Bot Detective](https://github.com/Mehak3010/Reddit-Bot-Detective)                        | Comparative study of anomaly detection algorithms for identifying automated Reddit accounts.                               | Python, Machine Learning, Data Analysis      |
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-
-`Python` `Java` `JavaScript` `SQL` `C` `PHP`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
-
-### Backend
-
-`Node.js` `Express.js` `FastAPI` `REST APIs`
-
-### AI / Machine Learning
-
-`Scikit-Learn` `TensorFlow` `LangChain` `FAISS` `Gemini API`
-`Pandas` `NumPy`
-
-### Databases
-
-`MongoDB` `MySQL`
-
-### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Postman` `Kaggle` `Vercel`
+* 🎓 BCA @ Jagannath International Management School (2023–2026) — CGPA: **9.3**
+* 🤖 AI Engineer @ **Fasal VIMAAN** — shipping computer vision + ML inference to production
+* 🌍 Open Source Contributor @ **Apache Sedona** (3 merged PRs)
+* 📊 Focus: Recommendation/ranking systems, statistical experimentation, explainable AI
+* 🛠️ Built AI-powered products, ML pipelines, and full-stack applications
+* 🤝 Open to Data Scientist, AI/ML Engineer, and Software Engineer opportunities
 
 ---
 
 ## 💼 Experience
 
-### AI Engineer | Fasal Vimaan (Jan, 2026 - Present)
+**Artificial Intelligence Intern | Fasal VIMAAN** *(Jan 2026 – Present)*
+- Built a production computer vision pipeline using ResNet50, achieving 93.4% validation accuracy across 83 disease classes spanning 14 crops
+- Shipped an ONNX-optimized FastAPI inference service at <20ms latency with input validation, confidence scoring, and a rules-based recommendation engine for 50+ conditions
 
-* Designing and implementing AI-driven solutions to enhance automation, data intelligence, 
-and decision-making capabilities across the organization's digital ecosystem. 
-* Developing and integrating machine learning models with web applications and APIs to build practical, 
-data-driven solutions for real-world challenges.
+**Open Source Contributor | Apache Sedona** *(Feb 2026 – Mar 2026)*
+- Contributed 3 merged pull requests implementing ST_Relate, boolean variant support, and PostGIS integration documentation
+- Enhanced spatial SQL capabilities and developer experience through feature implementation and technical documentation
 
-### Web Development Intern | Unified Mentor (July,25 - Aug, 2025)
-
-* Developed and enhanced web applications using modern frontend and backend technologies.
-* Built responsive user interfaces and implemented application features.
-* Collaborated on project delivery and software development workflows.
+**Web Development Intern | Unified Mentor** *(Jul 2025 – Aug 2025)*
+- Developed and enhanced web applications using modern frontend and backend technologies
+- Built responsive user interfaces and implemented application features
 
 ---
 
-## 🏆 Achievements
+## 🌟 Featured Projects
 
-* 🌟 Apache Sedona Open Source Contributor
-* 🤖 Microsoft AI Odyssey Participant
-* 🎓 Google AI Agents Intensive Course Graduate
-* 🏅 Secretary (2025), Enigma IT Club (2025)
-* 🚀 Innovation Coordinator(2026), Institution's Innovation Council (IIC)
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Credit Policy Experiment](https://github.com/Mehak3010/Credit-Policy-Experiment) | Simulated credit-policy experiment on 1.3M+ loan records using A/B-style testing, logistic regression, and PD×LGD×EAD expected-loss modeling; estimated 1.19pp default reduction and $83.64M modeled loss savings | Python, Scikit-learn, Statsmodels, Power BI |
+| [Clinical Readmission Risk Prediction](https://github.com/Mehak3010/Clinical-Readmission-Prediction) | ML pipeline on 101K+ EHRs predicting 30-day diabetic readmission with XGBoost, threshold optimization, and SHAP explainability | Python, XGBoost, SHAP, Pandas |
+| [The Drawer](https://github.com/Mehak3010/RecommendationSystem) | End-to-end book recommendation platform benchmarking 9 algorithms on 5.9M+ ratings (NDCG, Recall, Coverage, Diversity); generative retrieval matched top accuracy while covering 2.7x more of the catalog | Python, PyTorch, Scikit-learn, FAISS, FastAPI, Transformers |
+| [Customer Churn Prediction](https://github.com/Mehak3010/CustomerChurnAnalysis) | ML pipeline predicting churn on 7,000+ records; 0.84 ROC-AUC, 80% accuracy | Python, XGBoost, Scikit-learn |
+| [Zenith](https://github.com/Mehak3010/Zenith) | Real estate price predictor on the Ames Housing dataset; best model (XGBoost) achieved 0.93 R² and ~$22,900 RMSE | Python, XGBoost, Scikit-learn |
+| [Reddit Bot Detective](https://github.com/Mehak3010/reddit-bot-detective-main) | Interactive dashboard comparing unsupervised learning models for detecting bot accounts | Python, PRAW, Unsupervised Learning |
+| [AskMyPDF](https://github.com/Mehak3010/AskMyPDF) | AI-powered multi-document assistant with PDF chat, cross-document reasoning, AI-generated quizzes, and exportable study kits | React, TypeScript, FastAPI, Groq, LangChain, RAG |
+| [RepoTriage](https://github.com/Mehak3010/RepoTriage) | AI triage assistant for GitHub issues — retrieval-augmented Q&A and priority/duplicate reasoning with guardrails and cost/latency observability | Python, FastAPI, Qdrant, GPT-4o-mini, RAG |
+| [Verify Gateway](https://github.com/Mehak3010/verify-gateway) | Anti-hallucination checkpoint that extracts and verifies factual claims from AI agent outputs against web evidence | Python, FastAPI, Streamlit, Docker |
+| [Black Light AI](https://github.com/Mehak3010/black-light-ai) | Autonomous cyber risk intelligence agent performing automated web app risk evaluation using coordinated LLM agents | Python, LangChain, OpenAI API |
+| [Synq](https://github.com/Mehak3010/Synq) | Real-time chat application with secure authentication and Socket.io messaging | React, Node.js, Socket.io, MongoDB |
+| [InkWell](https://github.com/Mehak3010/InkWell) | Full-stack blogging platform for content creation, publishing, and community engagement | TypeScript, React, Node.js |
+| [BeatBliss](https://github.com/Mehak3010/BeatBliss) | Interactive music discovery app with a modern NCS playlist interface | JavaScript, React, Audio API |
+
+---
+
+## 🛠️ Technical Skills
+
+**AI / Machine Learning**
+`Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `SHAP` `Hugging Face` `LangChain` `RAG` `AI Agents` `Prompt Engineering` `ResNet50` `ONNX`
+
+**Data Science & Analytics**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Statsmodels` `A/B Testing` `Power Analysis` `Feature Engineering` `Model Evaluation`
+
+**Programming Languages**
+`Python` `SQL` `JavaScript` `TypeScript` `Java` `C` `C++`
+
+**Big Data & Tools**
+`Apache Spark (learning)` `Power BI` `Docker` `Git` `GitHub Actions (CI/CD)` `Azure` `GCP` `Jupyter` `FastAPI`
+
+---
+
+## 🏆 Achievements & Certifications
+
+* 🌟 Apache Sedona Open Source Contributor (3 merged PRs)
+* 📜 Supervised Machine Learning: Regression and Classification — Stanford Online (Coursera), May 2026
+* 🤖 5-Day GenAI Intensive Course — Google × Kaggle, Nov 2025
+* 🎓 Microsoft AI Odyssey Participant
+* 🏅 Innovation Coordinator (2025–2026), Institution's Innovation Council (IIC), JIMS VK
+* 🏅 Secretary (2024–2025), Enigma — The IT Club of JIMS VK
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/mehak-arora-89b436292/
-* GitHub: https://github.com/Mehak3010
+* 📧 Email: mehak3010arora@gmail.com
+* 💼 [LinkedIn](https://www.linkedin.com/in/mehakar/)
+* 💻 [GitHub](https://github.com/Mehak3010)
+* 📊 [Kaggle](https://www.kaggle.com/mehakar)
+* 🌐 [Portfolio](https://personal-portfolio-website-livid.vercel.app/)
